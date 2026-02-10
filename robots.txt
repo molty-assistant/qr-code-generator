@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://molty-assistant.github.io/qr-code-generator/sitemap.xml
